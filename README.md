@@ -1,5 +1,7 @@
 ## Modxo RP2040-Zero Adapter
 
+DISCLAIMER: Firmware v0.2 is only supported, this does not work with Team Resurgent's v1.0 firmware!
+
 <img src="/pcb.png"> 
 
 This is an adapter for a RP2040-Zero microcontroller to be used with Shalx's Modxo firmware that makes it into an Original Xbox modchip.

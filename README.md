@@ -16,6 +16,9 @@ Bill of materials are as follows:
 
 PCB thickness must be at least 1.2mm.
 
+Perform the following modification in order to use the board with newer firmware.
+<img src="/IMG_6064.jpeg">
+
 [JLCPCB](https://jlcpcb.com)
 
 [PCBWay](https://pcbway.com)
